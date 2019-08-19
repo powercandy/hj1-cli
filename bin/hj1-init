@@ -22,7 +22,7 @@ program.on("--help", () => {
     console.log("  示例:");
     console.log();
     console.log(chalk.gray("    # 使用模板创建项目"));
-    console.log("    $ hj1 init hj1-vue-boilerplate my-project");
+    console.log("    $ hj1 init kg-vue-boilerplate my-project");
     console.log();
 });
 
