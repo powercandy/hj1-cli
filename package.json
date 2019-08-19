@@ -1,6 +1,6 @@
 {
   "name": "hj1-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple CLI for scaffolding Vue.js projects.",
   "bin": {
     "hj1": "bin/hj1",
